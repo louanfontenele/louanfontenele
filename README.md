@@ -8,7 +8,7 @@
   </a>
 </div>
  
- ## Total spent programming in 7 days
+ ## Total Spent on Programming in All Time
   <a href="https://wakatime.com/@louanfontenele">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=louanfontenele&langs_count=10&layout=compact&theme=dracula"/>
   <img align="right" alt="GIF" src="https://github.com/louanfontenele/louanfontenele/blob/main/code.gif?raw=true" width="330em" height="215em" />
