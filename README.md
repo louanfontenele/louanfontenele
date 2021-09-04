@@ -39,7 +39,8 @@
   ![Snake animation](https://github.com/louanfontenele/louanfontenele/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  ### 👥 Visitors
+
+  ## 👥 Visitors
 <div style="text-align:center">
 <a href="https://github.com/louanfontenele/" target="_blank"><img alt="Github Visitors Counters" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=louanfontenele&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge" target="_blank"></a>
 </div>
