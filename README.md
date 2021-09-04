@@ -1,5 +1,5 @@
-# 👋 Hello! I'm Louan Fontenele 
  <img align="right" alt="Louan" width="70" height="70" src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Prescription02&hairColor=BrownDark&facialHairType=Blank&clotheType=ShirtVNeck&clotheColor=Gray01&eyeType=Default&eyebrowType=DefaultNatural&mouthType=Smile&skinColor=Light">
+# 👋 Hello! I'm Louan Fontenele 
 
 ## 📊 My Github Stats 
  <div>
