@@ -42,5 +42,7 @@
 
   ## 👥 Visitors
 <div style="text-align:center">
+ <p align="center">
 <a href="https://github.com/louanfontenele/" target="_blank"><img alt="Github Visitors Counters" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=louanfontenele&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge" target="_blank"></a>
+ </p>
 </div>
