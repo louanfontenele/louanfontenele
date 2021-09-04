@@ -8,13 +8,13 @@
   </a>
 </div>
  
- ## 📅 Total Spent on Programming in All Time 
+ ## 📅 Total Spent on Programming (All Time) 
   <a href="https://wakatime.com/@louanfontenele">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=louanfontenele&langs_count=10&layout=compact&theme=dracula"/>
   <img align="right" alt="GIF" src="https://github.com/louanfontenele/louanfontenele/blob/main/code.gif?raw=true" width="330em" height="215em" />
   </a>
 
- ## 👨‍🎓 Learning this languages 
+ ## 👨‍🎓 Learning This Languages 
 <div style="display: inline_block"><br>
   <a href="https://github.com/louanfontenele">
   <img align="center" alt="LF-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
