@@ -1,4 +1,4 @@
-# Hello! I'm Louan Fontenele 
+# Hello! I'm Louan Fontenele <img align="right" alt="Louan" width="138" height="138" src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Prescription02&hairColor=BrownDark&facialHairType=Blank&clotheType=ShirtVNeck&clotheColor=Gray01&eyeType=Default&eyebrowType=DefaultNatural&mouthType=Smile&skinColor=Light">
  <div>
   <a href="https://github.com/louanfontenele">
   <img height="168em" src="https://github-readme-stats.vercel.app/api?username=louanfontenele&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -32,7 +32,7 @@
   <a href = "mailto:louanbastos61@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/louanfontenele" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/louanfontenele/" target="_blank"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=github.louanfontenele&label=Github%20Visitors%20Count&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge" target="_blank"></a>  
- <img align="right" alt="Louan" width="138" height="138" src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Prescription02&hairColor=BrownDark&facialHairType=Blank&clotheType=ShirtVNeck&clotheColor=Gray01&eyeType=Default&eyebrowType=DefaultNatural&mouthType=Smile&skinColor=Light">
+ 
  
  ## My Contribuition Grid Snake
  
