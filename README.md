@@ -27,6 +27,7 @@
   <a href="https://instagram.com/louanfontenele" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:louanbastos61@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/louanfontenele" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/louanfontenele/" target="_blank"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=github.louanfontenele&label=Github%20Visitors%20Count&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge" target="_blank"></a>  
  
   ![Snake animation](https://github.com/louanfontenele/louanfontenele/blob/output/github-contribution-grid-snake.svg)
  
