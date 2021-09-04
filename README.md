@@ -8,13 +8,13 @@
   </a>
 </div>
  
- ## 📅 Total Spent on Programming (All Time) 
+ ## 📅 Total Spent on Programming (All Time) - Wakatime
   <a href="https://wakatime.com/@louanfontenele">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=louanfontenele&langs_count=10&layout=compact&theme=dracula"/>
   <img align="right" alt="GIF" src="https://github.com/louanfontenele/louanfontenele/blob/main/code.gif?raw=true" width="330em" height="215em" />
   </a>
 
- ## 👨‍🎓 Learning This Languages 
+ ## 👨‍🎓 Learning This Programming Languages 
 <div style="display: inline_block"><br>
   <a href="https://github.com/louanfontenele">
   <img align="center" alt="LF-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,7 +35,7 @@
  <img align="right" alt="Louan" width="70" height="70" src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Prescription02&hairColor=BrownDark&facialHairType=Blank&clotheType=ShirtVNeck&clotheColor=Gray01&eyeType=Default&eyebrowType=DefaultNatural&mouthType=Smile&skinColor=Light">
  
  
- ## 🐍 My Contribuition Grid Snake 
+ ## 🐍 My Contribuition Grid (Snake) 
  
   ![Snake animation](https://github.com/louanfontenele/louanfontenele/blob/output/github-contribution-grid-snake.svg)
  
