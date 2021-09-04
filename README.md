@@ -7,7 +7,7 @@
  
  ##
  
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/wakatime?username=louanfontenele&theme=dracula"/>
+  <img height="260em" src="https://github-readme-stats.vercel.app/api/wakatime?username=louanfontenele&theme=dracula"/>
 
  ##
  
