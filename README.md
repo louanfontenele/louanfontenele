@@ -1,4 +1,4 @@
-## Hello! I'm Louan Fontenele 
+# Hello! I'm Louan Fontenele 
  <div>
   <a href="https://github.com/louanfontenele">
   <img height="168em" src="https://github-readme-stats.vercel.app/api?username=louanfontenele&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -6,13 +6,13 @@
   </a>
 </div>
  
- ##
+ ## Total spent programming in 7 days
   <a href="https://wakatime.com/@louanfontenele">
   <img height="260em" src="https://github-readme-stats.vercel.app/api/wakatime?username=louanfontenele&theme=dracula"/>
   
   </a>
 
- ##
+ ## Learning this languages
  
 <div style="display: inline_block"><br>
   <a href="https://github.com/louanfontenele">
@@ -25,7 +25,7 @@
   </a>
 </div>
   
-  ##
+  ## My Social Profiles
  
 <div> 
   <a href="https://www.facebook.com/louanfontenele/" target="_blank"><img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
