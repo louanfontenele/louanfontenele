@@ -10,7 +10,7 @@
  
  ## Total spent programming in 7 days
   <a href="https://wakatime.com/@louanfontenele">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/wakatime?username=louanfontenele&langs_count=7&theme=dracula"/>
+  <img width="500" height="275" src="https://github-readme-stats.vercel.app/api/wakatime?username=louanfontenele&langs_count=7&theme=dracula"/>
   <img align="right" alt="GIF" src="https://github.com/louanfontenele/louanfontenele/blob/main/code.gif?raw=true" width="500" height="275" />
   </a>
 
