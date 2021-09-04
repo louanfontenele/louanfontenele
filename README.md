@@ -9,7 +9,7 @@
  ## Total spent programming in 7 days
   <a href="https://wakatime.com/@louanfontenele">
   <img height="260em" src="https://github-readme-stats.vercel.app/api/wakatime?username=louanfontenele&theme=dracula"/>
-  
+  <img align="right" alt="GIF" src="https://github.com/louanfontenele/louanfontenele/blob/main/code.gif?raw=true" width="500" height="275" />
   </a>
 
  ## Learning this languages
@@ -21,7 +21,6 @@
   <img align="center" alt="LF-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="LF-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LF-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="GIF" src="https://github.com/louanfontenele/louanfontenele/blob/main/code.gif?raw=true" width="500" height="275" />
   </a>
 </div>
   
