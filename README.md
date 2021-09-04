@@ -9,6 +9,7 @@
  ##
   <a href="https://wakatime.com/@louanfontenele">
   <img height="260em" src="https://github-readme-stats.vercel.app/api/wakatime?username=louanfontenele&theme=dracula"/>
+  <img align="right" alt="GIF" src="https://github.com/louanfontenele/louanfontenele/blob/main/code.gif?raw=true" width="500" height="320" />
   </a>
 
  ##
