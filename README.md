@@ -1,6 +1,6 @@
-# Hello! I'm Louan Fontenele 
+# Hello! I'm Louan Fontenele 👋
 
-## My Github Stats
+## My Github Stats 📊
  <div>
   <a href="https://github.com/louanfontenele">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=louanfontenele&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -8,14 +8,13 @@
   </a>
 </div>
  
- ## Total Spent on Programming in All Time
+ ## Total Spent on Programming in All Time 📅
   <a href="https://wakatime.com/@louanfontenele">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=louanfontenele&langs_count=10&layout=compact&theme=dracula"/>
   <img align="right" alt="GIF" src="https://github.com/louanfontenele/louanfontenele/blob/main/code.gif?raw=true" width="330em" height="215em" />
   </a>
 
- ## Learning this languages
- 
+ ## Learning this languages 👨‍🎓
 <div style="display: inline_block"><br>
   <a href="https://github.com/louanfontenele">
   <img align="center" alt="LF-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,8 +25,7 @@
   </a>
 </div>
   
-  ## My Social Profiles
- 
+  ## My Social Profiles 📱
 <div> 
   <a href="https://www.facebook.com/louanfontenele/" target="_blank"><img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/louanfontenele" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -37,7 +35,7 @@
  <img align="right" alt="Louan" width="70" height="70" src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Prescription02&hairColor=BrownDark&facialHairType=Blank&clotheType=ShirtVNeck&clotheColor=Gray01&eyeType=Default&eyebrowType=DefaultNatural&mouthType=Smile&skinColor=Light">
  
  
- ## My Contribuition Grid Snake
+ ## My Contribuition Grid Snake 🐍
  
   ![Snake animation](https://github.com/louanfontenele/louanfontenele/blob/output/github-contribution-grid-snake.svg)
  
