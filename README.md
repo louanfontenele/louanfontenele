@@ -10,7 +10,7 @@
  
  ## Total spent programming in 7 days
   <a href="https://wakatime.com/@louanfontenele">
-  <img height="260em" src="https://github-readme-stats.vercel.app/api/wakatime?username=louanfontenele&theme=dracula"/>
+  <img height="260em" src="https://github-readme-stats.vercel.app/api/wakatime?username=louanfontenele&layout=compact&theme=dracula"/>
   <img align="right" alt="GIF" src="https://github.com/louanfontenele/louanfontenele/blob/main/code.gif?raw=true" width="500" height="275" />
   </a>
 
@@ -33,7 +33,7 @@
   <a href="https://instagram.com/louanfontenele" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:louanbastos61@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/louanfontenele" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/louanfontenele/" target="_blank"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=lfrb&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge" target="_blank"></a>  
+  <a href="https://github.com/louanfontenele/" target="_blank"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=louanfontenele&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge" target="_blank"></a>  
  <img align="right" alt="Louan" width="70" height="70" src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Prescription02&hairColor=BrownDark&facialHairType=Blank&clotheType=ShirtVNeck&clotheColor=Gray01&eyeType=Default&eyebrowType=DefaultNatural&mouthType=Smile&skinColor=Light">
  
  
