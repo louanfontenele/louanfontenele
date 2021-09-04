@@ -1,4 +1,4 @@
-# Hello! I'm Louan Fontenele <img align="right" alt="Louan" width="138" height="138" src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Prescription02&hairColor=BrownDark&facialHairType=Blank&clotheType=ShirtVNeck&clotheColor=Gray01&eyeType=Default&eyebrowType=DefaultNatural&mouthType=Smile&skinColor=Light">
+# Hello! I'm Louan Fontenele 
  <div>
   <a href="https://github.com/louanfontenele">
   <img height="168em" src="https://github-readme-stats.vercel.app/api?username=louanfontenele&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -27,6 +27,7 @@
   ## My Social Profiles
  
 <div> 
+ <img align="right" alt="Louan" width="138" height="138" src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Prescription02&hairColor=BrownDark&facialHairType=Blank&clotheType=ShirtVNeck&clotheColor=Gray01&eyeType=Default&eyebrowType=DefaultNatural&mouthType=Smile&skinColor=Light">
   <a href="https://www.facebook.com/louanfontenele/" target="_blank"><img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/louanfontenele" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:louanbastos61@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
