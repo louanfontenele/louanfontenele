@@ -1,5 +1,8 @@
 # 👋 Hello! I'm Louan Fontenele 
-
+<p align="center">
+    <a href='https://discord.com/users/213103837995597824'><img src="https://discord.c99.nl/widget/theme-3/213103837995597824.png" alt="top-langs"></a>
+    <br />
+</p>
 ## 📊 My Github Stats 
  <div>
   <a href="https://github.com/louanfontenele">
